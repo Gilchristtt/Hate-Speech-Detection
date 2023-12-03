@@ -67,3 +67,5 @@ This project dives into the challenging task of identifying hate speech within t
 - Encouraging further exploration and customizations for improving hate speech detection models.
 
 This journey was a profound exploration of hate speech detection, encompassing various methodologies and models, aiming to contribute to a more respectful online discourse.
+
+Link to the demo video :https://youtu.be/OiZP3NLfZqA
